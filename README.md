@@ -62,6 +62,13 @@ Phase Shift Keying (PSK):
 ![Screenshot (63)](https://github.com/user-attachments/assets/20867dc6-a6e3-42af-97ae-cd7c3946a83c)
 
 ## OUTPUT GRAPHS
+ASK
+![ASK](https://github.com/user-attachments/assets/14be8cfe-4685-4e9c-aa5e-9101d3ec7880)
+PSK
+![PSK](https://github.com/user-attachments/assets/fa31be6c-e98f-48ea-b3d2-b9701ec9c3f3)
+
+FSK
+![FSK](https://github.com/user-attachments/assets/d91697cd-0da2-4789-bc9d-9e96a347f3a3)
 
 ## RESULT 
 
